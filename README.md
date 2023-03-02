@@ -1,6 +1,6 @@
 ###  Hi👋 I'm Prachi  <hr>
 
-- 🔭 I’m currently working on Blog Application
+- 🔭 I’m currently working on [Blog Application](https://github.com/prachi2523/Blog-Application.git)
 - 🌱 I’m currently learning everything
 - 🤔 I’m looking for help with Data Structures and Algorithm😭
 - 📫 reach me asap:prachiverma2521@gmail.com
