@@ -1,4 +1,4 @@
-###  Hi👋 I'm Prachi  <hr>
+#  ***Hi👋 I'm Prachi***
 
 - 🔭 I’m currently working on [Blog Application](https://github.com/prachi2523/Blog-Application.git)
 - 🌱 I’m currently learning everything
@@ -7,7 +7,7 @@
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love mural designing❤️ more than you🤣
 
-### What I'm focusing on👩‍💻
+## What I'm focusing on👩‍💻
 Currently improving my Nodejs skill🎯<br>
 BTW you can also connect with me on [Linkedin](https://www.linkedin.com/in/prachi-verma-b10111245)
 
