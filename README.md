@@ -1,6 +1,6 @@
 #  ***Hi👋 I'm Prachi***
 
-- 🔭 I’m currently working on [Ecommerce-Application](git@github.com:prachi2523/Ecommerce-Application.git)
+- 🔭 I’m currently working on [Ecommerce-Application](https://github.com/prachi2523/Ecommerce-Application.git)
 - 🌱 I’m currently learning everything
 - 🤔 I’m looking for help with Data Structures and Algorithm😭
 - 📫 reach me asap: prachiverma2521@gmail.com
