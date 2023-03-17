@@ -1,4 +1,4 @@
-#  ***Hi👋 I'm Prachi***
+<h1 align="center"><i>Hi👋 I'm Prachi<i/></h1>
 
 - 🔭 I’m currently working on [Ecommerce-Application](https://github.com/prachi2523/Ecommerce-Application.git)
 - 🌱 I’m currently learning everything
