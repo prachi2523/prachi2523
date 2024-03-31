@@ -9,13 +9,9 @@ width="50%" >
 
 - 🌱 I’m currently learning everything
 
-- 🤔 I’m looking for help with Data Structures and Algorithm😭
-
 - 📫 reach me asap: ***prachiverma2521@gmail.com***
 
 - 😄 Pronouns: She/her
-
-- ⚡ Fun fact: I love mural designing❤️ more than you🤣
 
 ## What I'm focusing on👩‍💻
 
